@@ -1,0 +1,101 @@
+1,Abaddon,Strength,23,2.7,17,1.5,21,2,310,1.38,55,65,128,56.89,abaddon,abaddon,Dire
+2,Alchemist,Strength,25,1.8,11,1.2,25,1.8,295,1.54,24,33,128,45.83,alchemist,alchemist,Radiant
+3,Ancient Apparition,Intelligence,18,1.4,20,2.2,25,2.6,295,1.8,19,29,600,48.24,ancient_apparition,ancient_apparition,Dire
+4,Anti-Mage,Agility,20,1.2,22,2.8,15,1.8,315,2.08,27,31,128,41.69,antimage,antimage,Radiant
+5,Axe,Strength,25,2.5,20,2.2,18,1.6,290,1.8,24,28,128,48.78,axe,axe,Dire
+6,Bane,Intelligence,22,2.1,22,2.1,22,2.1,315,4.08,33,39,400,46.11,bane,bane,Dire
+7,Batrider,Intelligence,23,2.4,15,1.5,24,2.5,290,2.1,14,18,375,45.55,batrider,batrider,Dire
+8,Beastmaster,Strength,23,2.2,18,1.6,16,1.9,310,4.52,33,37,128,47.93,beastmaster,beastmaster,Radiant
+9,Bloodseeker,Agility,23,2,24,3,18,1.7,300,3.36,29,35,128,50.9,blood_seeker,bloodseeker,Dire
+10,Bounty Hunter,Agility,17,1.8,21,3,19,1.4,315,5.94,24,38,128,47.51,bounty_hunter,bounty_hunter,Radiant
+11,Brewmaster,Strength,23,2.9,22,1.95,14,1.25,300,4.08,29,36,128,50.02,brewmaster,brewmaster,Radiant
+12,Bristleback,Strength,22,2.2,17,1.8,14,2.8,295,3.38,26,36,128,49.6,bristleback,bristleback,Radiant
+13,Broodmother,Agility,17,2.5,18,2.2,18,2,295,2.52,26,32,128,41.8,broodmother,broodmother,Dire
+14,Centaur Warrunner,Strength,23,3.8,15,2,15,1.6,300,3.1,32,34,128,54.78,centaur,centaur,Dire
+15,Chaos Knight,Strength,20,2.9,14,2.1,16,1.2,325,3.96,29,59,128,46.82,chaos_knight,chaos_knight,Dire
+16,Chen,Intelligence,20,1.5,15,2.1,21,2.8,300,1.1,22,32,600,45.22,chen,chen,Radiant
+17,Clinkz,Agility,15,1.6,22,3,16,1.55,300,2.08,15,21,600,43.17,clinkz,clinkz,Dire
+18,Clockwerk,Strength,24,2.7,13,2.3,17,1.3,315,1.82,31,33,128,50.31,rattletrap,rattletrap,Radiant
+19,Crystal Maiden,Intelligence,16,1.7,16,1.6,16,2.9,280,1.24,19,25,600,53.34,crystal_maiden,crystal_maiden,Radiant
+20,Dark Seer,Intelligence,22,2.3,12,1.2,29,2.7,300,5.68,31,37,128,49.04,dark_seer,dark_seer,Dire
+21,Dazzle,Intelligence,16,1.85,21,1.7,27,3.4,305,1.94,14,32,500,52.29,dazzle,dazzle,Dire
+22,Death Prophet,Intelligence,19,2.2,14,1.4,20,3,280,2.96,24,36,600,54.46,death_prophet,death_prophet,Dire
+23,Disruptor,Intelligence,19,1.9,15,1.4,22,2.5,300,1.1,27,31,600,51.24,disruptor,disruptor,Radiant
+24,Doom,Strength,26,3.2,11,0.9,13,2.1,290,0.54,27,43,150,47.76,doom,doom_bringer,Dire
+25,Dragon Knight,Strength,19,2.8,19,2.2,15,1.7,290,3.66,27,33,128,48.24,dragon_knight,dragon_knight,Radiant
+26,Drow Ranger,Agility,17,1.9,26,1.9,15,1.4,300,0.64,18,29,625,53.68,drow,drow_ranger,Radiant
+27,Earthshaker,Strength,22,2.9,12,1.4,16,1.8,310,2.68,24,34,128,49.81,earthshaker,earthshaker,Radiant
+28,Elder Titan,Strength,24,2.3,14,1.5,23,1.6,315,2.96,23,33,128,51.71,elder_titan,elder_titan,Radiant
+29,Enchantress,Intelligence,16,1,19,1.8,16,2.8,310,0.66,31,41,550,44.57,enchantress,enchantress,Radiant
+30,Enigma,Intelligence,17,2.1,14,1,20,3.4,300,3.96,22,28,500,46.69,enigma,enigma,Dire
+31,Faceless Void,Agility,23,1.6,21,2.65,15,1.5,300,3.94,37,43,128,46.17,faceless_void,faceless_void,Dire
+32,Gyrocopter,Agility,18,1.8,24,2.8,23,2.1,315,4.36,17,27,365,46.55,gyro,gyrocopter,Radiant
+33,Huskar,Strength,21,2.4,15,1.4,18,1.5,300,1.1,21,30,400,47.96,huskar,huskar,Radiant
+34,Invoker,Intelligence,19,1.7,20,1.9,22,2.5,280,1.8,13,19,600,45.36,invoker,invoker,Dire
+35,Jakiro,Intelligence,24,2.3,10,1.2,28,2.8,290,2.4,18,26,400,54.08,twin_headed_dragon,jakiro,Radiant
+36,Juggernaut,Agility,20,1.9,20,2.85,14,1.4,305,3.8,24,28,128,48.61,juggernaut,juggernaut,Radiant
+37,Keeper of the Light,Intelligence,14,1.8,15,1.6,22,2.8,315,1.1,18,32,600,51.04,keeper_of_the_light,keeper_of_the_light,Radiant
+38,Kunkka,Strength,24,3,14,1.3,18,1.5,300,1.96,26,36,128,49.24,kunkka,kunkka,Radiant
+39,Leshrac,Intelligence,16,1.5,23,1.7,26,3,315,3.22,19,23,600,47.58,leshrac,leshrac,Dire
+40,Lich,Intelligence,18,1.55,15,2,18,3.25,315,1.1,24,33,550,55.93,lich,lich,Dire
+41,Lifestealer,Strength,25,2.4,18,1.9,15,1.75,315,1.52,32,42,128,49.33,life_stealer,life_stealer,Dire
+42,Lina,Intelligence,18,1.5,16,1.5,27,3.2,295,1.24,13,21,650,46.04,lina,lina,Radiant
+43,Lion,Intelligence,16,1.7,15,15,22,3,290,1.1,20,26,600,48.66,lion,lion,Dire
+44,Lone Druid,Agility,17,2.1,24,2.7,13,1.4,325,3.36,22,26,550,44.5,lone_druid,lone_druid,Radiant
+45,Luna,Agility,15,1.9,22,2.8,16,1.85,330,3.08,26,32,330,53.88,luna,luna,Radiant
+46,Lycan,Strength,22,2.75,16,1.9,17,1.55,305,3.24,36,41,128,52.92,lycan,lycan,Dire
+47,Magnus,Strength,21,2.75,15,2.5,19,1.65,315,4.1,28,40,128,45.96,magnataur,magnataur,Dire
+48,Medusa,Agility,14,1.65,20,2.5,19,1.85,290,1.8,24,30,600,46.77,medusa,medusa,Dire
+49,Meepo,Agility,23,1.6,23,1.9,20,1.6,305,4.22,16,22,128,43.59,meepo,meepo,Dire
+50,Mirana,Agility,17,1.85,20,2.75,17,1.65,300,1.8,18,29,600,52.28,mirana,mirana,Radiant
+51,Morphling,Agility,19,2,24,3,17,1.5,285,1.36,13,22,350,41.81,morphling,morphling,Radiant
+52,Naga Siren,Agility,21,2.3,21,2.75,18,1.95,320,5.94,23,25,128,46.96,siren,naga_siren,Radiant
+53,Nature's Prophet,Intelligence,19,1.8,18,1.9,21,2.9,295,3.52,24,38,600,47.7,furion,furion,Radiant
+54,Nercrophos,Intelligence,16,2,15,1.7,22,2.5,290,2.1,22,26,550,55.24,necrolyte,necrolyte,Dire
+55,Night Stalker,Strength,23,2.8,18,2.25,16,1.6,295,5.52,34,38,128,49.88,nightstalker,night_stalker,Dire
+56,Nyx Assassin,Agility,18,2,19,2.2,18,2.1,300,3.66,30,34,128,51.21,nerubian_assassin,nyx_assassin,Dire
+57,Ogre Magi,Intelligence,23,3.2,14,1.55,17,2.4,295,5.96,41,47,128,51.01,ogre_magi,ogre_magi,Radiant
+58,Omniknight,Strength,20,2.65,15,1.75,17,1.8,305,4.1,31,41,128,53.34,omniknight,omniknight,Radiant
+59,Outworld Devourer,Intelligence,19,1.85,24,2,26,3.3,315,5.36,20,35,450,46.52,obsidian_destroyer,obsidian_destroyer,Dire
+60,Phantom Assassin,Agility,20,1.85,23,3.15,13,1,310,4.22,23,25,128,43.95,phantom_assassin,phantom_assassin,Dire
+61,Phantom Lancer,Agility,18,1.7,23,4.2,21,2,290,3.22,22,44,128,51.93,phantom_lancer,phantom_lancer,Radiant
+62,Puck,Intelligence,15,1.7,22,1.7,25,2.4,295,2.08,22,33,550,44.89,puck,puck,Radiant
+63,Pudge,Strength,25,3.2,14,1.5,14,1.5,285,0.96,27,33,128,48.1,pudge,pudge,Dire
+64,Pugna,Intelligence,17,1.2,16,1,26,4,320,1.24,19,27,600,46.17,pugna,pugna,Dire
+65,Queen of Pain,Intelligence,16,1.7,18,2,24,2.5,300,1.52,25,33,550,44.75,queenofpain,queenofpain,Dire
+66,Razor,Agility,21,1.7,22,2,19,1.8,295,2.08,23,25,475,49.8,razor,razor,Dire
+67,Riki,Agility,17,2,34,2.9,14,1.3,300,5.76,14,18,128,51.95,rikimaru,riki,Radiant
+68,Rubick,Intelligence,19,1.5,14,1.6,27,2.4,290,0.96,17,27,600,46.03,rubick,rubick,Radiant
+69,Sand King,Strength,18,2.6,19,2.1,16,1.8,300,2.6,25,41,128,50.45,sand_king,sand_king,Dire
+70,Shadow Demon,Intelligence,17,1.9,18,2.2,23,2.7,295,2.52,27,31,500,43.06,shadow_demon,shadow_demon,Dire
+71,Shadow Fiend,Agility,15,2,20,2.9,18,2,305,1.8,15,21,500,49.43,nevermore,nevermore,Dire
+72,Shadow Shaman,Intelligence,19,1.6,16,1.6,21,3,285,1.24,26,33,500,50.45,shadowshaman,shadow_shaman,Radiant
+73,Silencer,Intelligence,17,2.2,16,2.1,27,2.5,300,1.24,16,30,600,51.95,silencer,silencer,Radiant
+74,Skywrath Mage,Intelligence,19,1.5,18,0.8,27,3.6,315,0.52,12,22,600,43.88,skywrath_mage,skywrath_mage,Radiant
+75,Slardar,Strength,21,2.8,17,2.4,15,1.5,300,5.38,30,38,128,51.67,slardar,slardar,Dire
+76,Slark,Agility,21,1.8,21,1.5,16,1.9,305,1.94,33,41,128,51.02,slark,slark,Dire
+77,Sniper,Agility,16,1.7,21,2.9,15,2.6,290,1.94,15,21,550,48.19,sniper,sniper,Radiant
+78,Spectre,Agility,19,2,23,2.2,16,1.9,295,3.22,23,27,128,52.75,spectre,spectre,Dire
+79,Spirit Breaker,Strength,29,2.4,17,1.7,14,1.8,290,5.38,31,41,128,54.03,spirit_breaker,spirit_breaker,Dire
+80,Storm Spirit,Intelligence,19,1.5,22,1.8,23,2.6,290,5.08,22,32,480,45.14,storm_spirit,storm_spirit,Radiant
+81,Sven,Strength,23,2.7,21,2,14,1.3,295,4.94,31,33,128,50.24,sven,sven,Radiant
+82,Templar Assassin,Agility,18,2.1,23,2.7,20,2,305,4.22,30,36,140,45.69,lanaya,templar_assassin,Radiant
+83,Tidehunter,Strength,22,3,15,1.5,16,1.7,310,3.1,25,31,128,52.86,tidehunter,tidehunter,Dire
+84,Timbersaw,Strength,22,2.1,16,1.3,21,2.4,290,0.24,26,30,128,46.91,shredder,shredder,Radiant
+85,Tinker,Intelligence,17,2,13,1.2,27,2.2,305,3.82,22,28,500,43.39,tinker,tinker,Radiant
+86,Tiny,Strength,24,3,9,0.9,14,1.6,285,0.26,37,43,128,46.75,tiny_01,tiny,Radiant
+87,Treant Protector,Strength,25,3.3,15,2,17,1.8,300,1.1,56,64,128,53.52,treant_protector,treant,Radiant
+88,Troll Warlord,Agility,17,2.2,21,2.75,13,1,300,1.94,17,35,500,48.95,troll_warlord,troll_warlord,Radiant
+89,Tusk,Strength,23,2.3,23,2.1,18,1.7,305,3.22,27,31,128,45.81,tuskarr,tusk,Radiant
+90,Undying,Strength,22,2.1,10,0.8,27,2,310,3.4,35,43,128,48.3,undying,undying,Dire
+91,Ursa,Agility,23,2.9,18,2.1,16,1.5,310,5.52,27,31,128,53.61,ursa,ursa,Radiant
+92,Vengeful Spirit,Agility,18,2.6,27,2.8,15,1.75,295,3.78,12,26,400,53.58,vengeful,vengefulspirit,Radiant
+93,Venomancer,Agility,18,1.85,22,2.6,15,1.75,285,3.08,19,21,450,53.42,venomancer,venomancer,Dire
+94,Viper,Agility,20,1.9,21,2.5,15,1.8,285,1.94,23,25,575,52.73,viper,viper,Dire
+95,Visage,Intelligence,22,2.4,11,1.3,24,2.5,285,-0.46,24,34,600,48.04,visage,visage,Dire
+96,Warlock,Intelligence,18,2.5,10,1,24,2.7,295,2.4,22,32,600,56.7,warlock,warlock,Dire
+97,Weaver,Agility,15,1.5,14,2.5,15,1.8,290,0.96,36,46,425,49.87,weaver,weaver,Dire
+98,Windranger,Intelligence,15,2.5,17,1.4,22,2.6,295,1.38,22,34,600,45.25,windrunner,windrunner,Radiant
+99,Witch Doctor,Intelligence,16,1.8,13,1.4,24,2.9,305,0.82,27,37,600,50.59,witchdoctor,witch_doctor,Dire
+100,Wraith King,Strength,22,2.9,18,1.7,18,1.6,300,3.52,32,34,128,53.39,skeleton_king,skeleton_king,Dire
+101,Zeus,Intelligence,19,2.3,11,1.2,20,2.7,295,1.54,21,29,350,55.57,zuus,zuus,Radiant

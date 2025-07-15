@@ -1,0 +1,58 @@
+<!Doctype html>
+<html ng-app="heroViewer">
+<head>
+    <title>Dotabase</title>
+    <meta name="Authors" content="Asha" />
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="resources/css/pace.css" />
+    <link type="text/less" rel="stylesheet" href="resources/css/app.less" />
+    <link type="text/css" rel="stylesheet" href="resources/css/semantic.min.css" />
+    <script type="text/javascript" src="resources/javascript/pace.js"></script>
+    <script type="text/javascript" src="resources/javascript/less.js"></script>
+    <script type="text/javascript" src="resources/javascript/qtek.js"></script>
+    <script type="text/javascript" src="resources/javascript/angular.js"></script>
+    <script type="text/javascript" src="resources/javascript/jquery.js"></script>
+    <script type="text/javascript" src="resources/javascript/semantic.min.js"></script>
+</head>
+<body style="margin:0px">
+    <div id="App">
+         
+         <div ng-view></div>
+       <div id="HeroViewer">
+           <canvas id="ViewPort"></canvas>
+        </div>
+        
+    </div>
+    <div id="Settings" class="ui right sidebar">
+        <div class="ui label">Shadow Quality</div>
+        <div id="ShadowQuality" dropdown class="ui labeled icon top right pointing dropdown purple mini button">
+            <i class="dropdown icon"></i>
+            <span class="text">High</span>
+            <div class="menu">
+                <div class="item">None</div>
+                <div class="item">Low</div>
+                <div class="item">High</div>
+            </div>
+        </div>
+        <div class="ui label">Soft Shadow</div>
+        <div id="SoftShadow" class="ui labeled icon top right pointing dropdown purple mini button">
+            <i class="dropdown icon"></i>
+            <span class="text">VSM</span>
+            <div class="menu">
+                <div class="item">PCF</div>
+                <div class="item active">VSM</div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        angular.module("heroViewer", []);
+    </script>
+    <script type="text/javascript" src="resources/javascript/SMDParser.js"></script>
+    <script type="text/javascript" src="resources/javascript/config.js"></script>
+    <script type="text/javascript" src="resources/javascript/background.js"></script>
+    <script type="text/javascript" src="resources/javascript/sparkle.js"></script>
+    <script type="text/javascript" src="resources/javascript/heroCtrl.js"></script>
+    <script type="text/javascript" src="resources/javascript/heroListCtrl.js"></script>
+    <script type="text/javascript" src="resources/javascript/app.js"></script>
+</body>
+</html>

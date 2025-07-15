@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; }
+body { font: 14px Georgia, serif; }
+
+article, aside, figure, footer, header, hgroup,
+menu, nav, section { display: block; }
+
+#page-wrap { width: 960px; margin: 60px auto; }
+
+h1 { box-shadow: 0 0 20px black; }

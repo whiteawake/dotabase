@@ -1,0 +1,138 @@
+1, Power Treads, Boots, 0, 1400, 49.81, 97.4, A pair of tough-skinned boots that change to meet the demands of the wearer.
+2, Phase Boots, Boots, 0, 1350, 48.62, 55.6, Boots that allow the wearer to travel between the ether.
+3, Town Portal Scroll, Object, 0, 135, 46.04, 51, Teleports you to a target friendly building.
+4, Magic Wand, Object, 0, 500, 44.89, 50.4, A simple wand used to channel magic energies.
+5, Arcane Boots, Boots, 0, 1450, 51.90, 49.1, Magi equipped with these boots are valued in battle.
+6, Aghanim's Scepter, Weapon, 0, 4200, 67.87, 40, A scepter of a wizard with demigod-like powers.
+7, Blink Dagger, Weapon, 0, 2150, 58.59, 38.3, The fabled dagger used by the fastest assassin ever to walk the lands.
+8, Black King Bar, Weapon, 24, 3975, 60.03, 26.4, A powerful staff imbued with the strength of giants.
+9, Bottle, Object, 0, 650, 43.81, 25.2, An old bottle that survived the ages.
+10, Shadow Blade, Weapon, 22, 3000, 55.84, 24.9, The blade of a fallen king it allows you to move unseen and strike from the shadows.
+11, Mekansm, Object, 0, 2300, 58.62, 24.2, A glowing jewel formed out of assorted parts that somehow fit together perfectly.
+12, Force Staff, Object, 0, 2250, 55.37, 24.1, Allows you to manipulate others for good or evil.
+13, Desolator, Weapon, 60, 4100, 67.37, 20.4, A wicked weapon used in torturing political criminals.
+14, Tranquil Boots, Boots, 0, 975, 51.42, 19.7, While they increase the longevity of the wearer this boot is not particularly reliable.
+15, Vanguard, Object, 0, 2225, 56.01, 19.5, A powerful shield that defends its wielder from even the most vicious of attacks.
+16, Boots of Travel, Boots, 0, 2450, 76.49, 19, Winged boots that grant omnipresence.
+17, Urn of Shadows, Object, 0, 875, 50.90, 17.4, Contains the ashes of powerful demons.
+18, Iron Branch, Object, 0, 50, 28.53, 16.6, A seemingly ordinary branch its ironlike qualities are bestowed upon the bearer.
+19, Sange and Yasha, Weapon, 16, 4100, 67.13, 16.3, When attuned by the moonlight and used together they become a very powerful combination.
+20, Ring of Aquilla, Object, 0, 985, 49.56, 15.6, The ring of the fallen Warlord Aquila continues to support armies in battle.
+21, Vladimir's Offering, Object, 0, 2050, 59.32, 15.2, An eerie mask that is haunted with the malice of a fallen vampire.
+22, Blade Mail, Armour, 22, 2200, 52.79, 15.4, A razor-sharp coat of mail.
+23, Bracer, Armour, 3, 525, 34.33, 15.4, The bracer is a common choice to toughen up defenses and increace longevity.
+24, Battle Fury, Weapon, 65, 4350, 60, 15.1, The bearer of this mighty axe gains the ability to cut down swaths of enemies at once.
+25, Drum of Endurance, Object, 3, 1850, 53.77, 14.9, A relic that enchants the bodies of those around it for swifter movement in times of crisis.
+26, Boots of Speed, Boots, 0, 450, 28.66, 14.9, Fleet footwear increasing movement.
+27, Heart of Tarrasque, Object, 0, 5500, 78.36, 14.2, Preserved heart of an extinct monster. It bolsters the bearer's fortitude.
+28, Crystalys, Weapon, 30, 2150, 53.59, 13.7, A blade forged from rare crystals. It seeks weak points in every armour.
+29, Stout Shield, Object, 0, 250, 29.77, 13.7, One man's wine barrel bottom is another man's shield.
+30, Daedalus, Weapon, 81, 5550, 74.85, 13.6, A weapon of incredible power that it is difficult for even the strongest of warriors to control.
+31, Ogre Club, Weapon, 0, 1000, 22.58, 12.4, You grow stronger just by holding it.
+32, Manta Style, Weapon, 0, 5050, 70.17, 12.4, An axe made of reflective materials that causes confusion amongst enemy ranks.
+33, Mask of Madness, Object, 0, 1900, 54.57, 11.9, Once this mask is worn it's bearer becomes an uncontrollable aggressive force.
+34, Assault Cuirass, Armour, 0, 5250, 77.45, 11.7, Forged in the depths of the nether reaches this hellish mail provides an army with increased armour and attack speed.
+35, Hand of Midas, Object, 0, 2050, 45.34, 11, Preserved through unknown magical means.
+36, Helm of the Dominator, Object, 20, 1850, 53.99, 11, The powerful headpiece of a dead necromancer.
+37, Poor Man's Shield, Object, 0, 550, 40.50, 10.7, A busted old shield that seems to block more than it should.
+38, Yasha, Weapon, 0, 2050, 43.58, 10.7, Yasha is regarded as the swiftest weapon ever created.
+39, Quelling Blade, Weapon, 0, 225, 30.51, 10.5, The axe of a fallen gnome.
+40, Skull Basher, Weapon, 40, 2950, 61.64, 10.5, A feared weapon in the right hands.
+41, Tango, Object, 0, 125, 25.22, 10.3, Forage to survive on the battlefield.
+42, Dust of Appearance, Object, 0, 180, 35.22, 10.2, Reveals invisible heroes.
+43, Ring of Basilius, Object, 6, 500, 41.47, 9.9, Ring given as a reward to the greatest mages.
+44, Observer Ward, Object, 0, 150, 36.47, 9.8, Gives sight of the surrounding area.
+45, Butterfly, Weapon, 30, 6000, 81.97, 9.2, Only the mightiest and most experienced of warriors can wield the Butterfly.
+46, Armlet of Mardiggian, Weapon, 9, 2600, 53.93, 8.9, Weapon of choice amongst brutes.
+47, Wraith Band, Object, 3, 485, 39.16, 8.8, A circlet with faint whispers echoing about it.
+48, Null Talisman, Object, 3, 470, 35.23, 8.8, A small gemstone attached to several chains.
+49, Staff of Wizardry, Object, 0, 1000, 26.10, 8.4, A staff of magical powers passed down from the eldest mages.
+50, Orchid Malevolence, Weapon, 30, 4125, 57.49, 8.4, A garnet rod constucted from the essence of a fire demon.
+51, Bloodstone, Object, 10, 5050, 72.24, 8.4, Instantly commits suicide on use.
+52, Eul's Scepter of Divinity, Object, 0, 2700, 60.94, 8.1, A mysterious scepter passed down through the ages.
+53, Mithril Hammer, Weapon, 24, 1600, 27.70, 7.7, A hammer forged of pure mithril.
+54, Point Booster, Object, 0, 1200, 39.85, 7.7, A perfectly formed amethyst that nourishes the body and mind when held.
+55, Linken's Sphere, Object, 10, 5175, 66.58, 7.6, This magical sphere once protected one of the most famous heroes in history.
+56, Perseverance, Object, 10, 1750, 46.68, 7.3, A gem that grants heart to the bearer.
+57, Soul Ring, Object, 0, 800, 45.19, 7.2, A ring that feeds on the sould of those around it.
+58, Magic Stick, Object, 0, 200, 39.48, 7, A simple wand used to channel magic energies.
+59, Mjollnir, Weapon, 24, 5300, 72.72, 6.8, Thor's magical hammer made for him by the dwarves Brok and Eitri.
+60, Ultimate Orb, Object, 0, 2100, 49.48, 6.5, A mystical orb containing the essence of life.
+61, Scythe of Vyse, Weapon, 0, 5675, 71.93, 6.5, The most guarded relic among the cult of Vyse. It is the most coveted weapon among magi.
+62, Sentry Ward, Object, 0, 200, 30.81, 6.4, Gives True Sight to the surrounding area.
+63, Hyperstone, Object, 0, 2000, 63.04, 6.4, A mystical carved stone that boosts the fervor of the holder.
+64, Platemail, Armour, 0, 1400, 48.61, 6.1, Thick metal plates that protect the entire upper body. Avoid dropping on feet.
+65, Gem of True Sight, Object, 0, 900, 84.52, 6.1, Gives the ability to see invisible units and wards. 
+66, Monkey King Bar, Weapon, 88, 5400, 75.46, 6, A powerful staff used by a master warrior.
+67, Shiva's Guard, Armour, 0, 4700, 78.22, 5.6, Said to have belonged to a goddess.
+68, Radiance, Weapon, 65, 5150, 72.90, 5.6, A divine weapon that causes damage and a bright burning effect lays waste to nearby enemies.
+69, Pipe of Insight, Object, 0, 3625, 63.01, 5.5, A powerful artifact of mysterious origin.
+70, Vitality Booster, Object, 0, 1100, 52.47, 5.3, A ruby gemstone that has been passed down through generations of warrior kin.
+71, Hood of Defiance, Object, 0, 2125, 51.30, 4.8, A furred magic resistant headpiece that is feared by wizards.
+72, Ghost Scepter, Object, 0, 1600, 60.84, 4.7, Imbues the wielder with a ghostly presence.
+73, Maelstrom, Weapon, 24, 2700, 49.54, 4.7, A hammer forged for the gods themselves. Allows the user to harness the power of lightning.
+74, Reaver, Weapon, 0, 3200, 72.55, 4.3, A massive axe capable of tearing whole mountains down.
+75, Refresher Orb, Object, 40, 5225, 77.15, 4.2, A powerful artifact created for wizards.
+76, Diffusal Blade 1, Weapon, 0, 3300, 54.74, 4, An enchanted blade that allows the user to cut straight into the enemy's soul.
+77, Blade of Alacrity, Weapon, 0, 1000, 22.16, 4, A long blade imbued with time magic.
+78, Eye of Skadi, Object, 0, 5675, 77.73, 3.9, Extremely rare artifact guarded by the azure dragons.
+79, Necronomicon 3, Object, 0, 5200, 65.59, 3.8, Considered the holy grail of necromancy and demonology. A powerful malefic force is locked within its pages.
+80, Guantlets of Strength, Armour, 0, 150, 31.30, 3.7, Studded leather gloves that add brute strength.
+81, Abyssal Blade, Weapon, 100, 6750, 83.22, 3.7, The lost blade of the Commander of the Abyss. This edge cuts into an enemy's soul.
+82, Javelin, Weapon, 21, 1500, 41.14, 3.6, A rather typical spear that can sometimes pierce through an enemy's armour when used to attack.
+83, Healing Salve, Object, 0, 115, 33.28, 3.6, A magical salve that can quickly mend even the deepest of wounds.
+84, Oblivion Staff, Weapon, 15, 1675, 10.01, 3.5, Deceptively hidden as an ordinary quarterstaff. It is actually very powerful much like the Eldritch who originally possessed it.
+85, Demon Edge, Weapon, 46, 2400, 65.74, 3.3, One of the oldest weapons forged by the Demon-Smith Abzidian. It killed its maker when he tested its edge.
+86, Clarity, Object, 0, 50, 28.90, 3.2, Clear water that enhances the ability to meditate.
+87, Dagon 5, Weapon, 9, 7720, 72.17, 3.1, A lesser wand that grows in power the longer it is used.
+88, Chainmail, Armour, 0, 550, 26.12, 3.1, A medium weave of metal chains.
+89, Void Stone, Object, 0, 875, 51.80, 3, Jewlery that was once used to channel nether realm magic.
+90, Slippers of Agility, Boots, 0, 150, 33.08, 2.9, Light boots made from spider skin that tingles your senses.
+91, Heaven's Halberd, Weapon, 25, 3850, 63.64, 2.9, This halberd moves with the speed of a smaller weapon allowing the bearer to win duels that a heavy edge would not.
+92, Quarterstaff, Weapon, 10, 900, 45.50, 2.9, A basic staff that allows you to strike quickly.
+93, Ring of Regen, Object, 0, 350, 17, 2.9, This ring is considered a good luck charm among the Gnomes.
+94, Aegis of the Immortal, Object, 0, 0, 96.72, 2.8, The Immortal wass said to own a shield that protected him from death itself.
+95, Headdress, Object, 0, 600, 22.62, 2.7, Creates a soothing aura that restores allies in battle.
+96, Orb of Venom, Object, 3, 275, 41.38, 2.7, Envenoms your vepon with the venom of a venoumous spider.
+97, Talisman of Evasion, Object, 0, 1800, 57.02, 2.7, A necklace that allows you to anticipate enemy attacks.
+98, Dagon 1, Weapon, 9, 2720, 47.81, 2.6, A lesser wand that grows in power the longer it is used.
+99, Ring of Health, Object, 0, 875, 30.49, 2.5, A shiny ring found beneath a fat halfling's corpse.
+100, Mystic Staff, Object, 0, 2700, 68.71, 2.5, Enigmatic staff made of only the most expensive crystals.
+101, Broadsword, Weapon, 18, 1200, 21.62, 2.4, The classic weapon of choice for knights. This blade is sturdy and reliable for slaying enemies. 
+102, Divine Rapier, Weapon, 300, 6200, 89.97, 2.4, So powerful it cannot have a single owner.
+103, Belt of Strength, Object, 0, 450, 17.74, 2.3, A valued accessory for improving vitality.
+104, Veil of Discord, Armour, 6, 2670, 64.96, 2.3, The headwear of corrupt magi.
+105, Claymore, Weapon, 21, 1400, 21.10, 2.2, A sword that can cut through armour. It's a commonly chosen first weapon for budding swordsmen.
+106, Morbid Mask, Object, 0, 900, 31.86, 2.1, A mask that drains the energy of those caught in its gaze.
+107, Diffusal Blade 2, Weapon, 0, 4150, 67.66, 2.1, An enchanted blade that allows the user to cut straight into the enemy's soul.
+108, Eaglesong, Object, 0, 3300, 74.26, 2, Capturing the magestic call of an eagle this mystical horn briings limitless dexterity to those who hear it.
+109, Sage's Mask, Object, 0, 325, 28.24, 2, A mask commonly used by mages and warlocks for various rituals.
+110, Sange, Weapon, 10, 2050, 37.03, 2, Sange is an unusually accurate weapon seeking weak points automatically.
+111, Satanic, Weapon, 20, 6150, 79.19, 2, Immense power at the cost of your soul. 
+112, Gloves of Haste, Armour, 0 , 500, 18.85, 1.9, A pair of magical gloves that seems to render weapons weightless.
+113, Robe of the Magi, Object, 0, 450, 13.10, 1.8, This robe corrupts the soul of the user but provides wisdom in return.
+114, Blades of Attack, Weapon, 9, 450, 17.57, 1.7, The damage of these small concealable blades should not be underestimated.
+115, Medallion of Courage, Object, 0, 1075, 51.48, 1.6, The bearer has no fear of combat.
+116, Ethereal Blade, Weapon, 0, 4900, 74.02, 1.6, A flickering blade of a ghastly nature. It is capable of dealing damage in both magical and physical planes.
+117, Cloak, Armour, 0, 550, 24.77, 1.5, A cloak made of a magical material that works to dispel any magic cast on it.
+118, Mantle of Intelligence, Object, 0, 150, 33.74, 1.4, A beautiful sapphire mantle worn by generations of queens.
+119, Dagon 2, Weapon, 9, 3970, 50.94, 1.3, A lesser wand that grows in power the longer it is used.
+120, Buckler, Object, 0, 800, 15.56, 1.2, A powerful shield that imbues the bearer with the strength of heroes past.
+121, Smoke of Deceit, Object, 0, 100, 31.16, 1.2, Allows invisibility for a short period of time.
+122, Dagon 3, Weapon, 9, 5220, 56.89, 1.2, A lesser wand that grows in power the longer it is used.
+123, Band of Elvenskin, Object, 0, 450, 14.63, 1.7, A tensile fabric often used for its light weight and ease of movement.
+124, Rod of Atos, Weapon, 0, 3100, 66.36, 1.1, Atos the lord of Blight has his essence stored in this deceptively simple wand.
+125, Shadow Amulet, Object, 0, 1600, 20.70, 1.1, Grants invisibility to you or a targeted allied hero.
+126, Sacred Relic, Weapon, 60, 3800, 74.04, 1, An ancient weapon that often turns the tides of war.
+127, Ring of Protection, Armour, 0, 175, 30.50, 1, A glimmering ring that defends its bearer.
+128, Dagon 4, Weapon, 9, 6470, 62.59, 1, A lesser wand that grows in power the longer it is used.
+129, Circlet, Object, 0, 185, 32.60, 1, An elegant circlet designed for human princesses.
+130, Soul Booster, Object, 0, 3300, 63.11, 0.95, Regain lost courage.
+131, Necronomicon 1, Object, 0, 2700, 46.13, 0.82, Considered the holy grail of necromancy and demonology. A powerful malefic force is locked within its pages.
+132, Helm of Iron Will, Armour, 0, 950, 26.52, 0.75, The helmet of a legendary warrior who fell in battle.
+133, Energy Booster, Object, 0, 1000, 55.78, 0.72, This lapis gemstone is commonly added to the collection of wizards seeking to improve their presence in combat.
+134, Necronomicon 2, Object, 0, 3950, 50.48, 0.61, Considered the holy grail of necromancy and demonology. A powerful malefic force is locked within its pages.
+135, Cheese, Object, 0, 1000, 73.14, 0.36, Made from the milm of a long lost Furbolg vendor. It restored vitality of those who taste it.
+136, Tango (Shared), Object, 0, 30, 23.57, 0.34, A shared Tango. Increases health.
+137, Animal Courier, Courier, 0, 150, 16.74, 0.07, Creature that carries items to and from your base.
+138, Flying Courier, Courier, 0, 220, 40.61, 0.014, Fast flying creature that carries items to and from your base. Requires Animal Courier.

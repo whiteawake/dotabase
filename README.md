@@ -1,3 +1,4 @@
-#Dota2 Hero Viewer
+# dotabase
+In‐browser graphical _Dota 2_ hero database.
 
-[Website](http://pissang.github.io/dota2hero)
+_Dota 2_ content and assets are owned by Valve Corporation.
